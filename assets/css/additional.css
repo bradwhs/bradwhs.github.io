@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icons {
+    @apply flex relative bottom-0.5 w-1/5 justify-around;
+    bottom: 1.125rem;
+    left: 39rem;
+}
