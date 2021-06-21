@@ -3,27 +3,37 @@
 @tailwind utilities;
 
 .icons-div {
-    @apply flex relative bottom-0.5 w-1/5 justify-around;
+    position: relative;
+    bottom: 0.125rem;
+    display: flex;
+    width: 20%;
+    justify-content: space-around;
     bottom: 1.125rem;
     left: 39rem;
 }
 
 .icons-for-article1 {
-    @apply flex relative bottom-0.5 justify-around;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
     width: 47%;
     bottom: 1.125rem;
     left: 13rem;
 }
 
 .icons-for-article2 {
-    @apply flex relative bottom-0.5 justify-around;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
     width: 20%;
     bottom: 1.125rem;
     left: 22rem;
 }
 
 .icons-for-article3 {
-    @apply flex relative bottom-0.5 justify-around;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
     width: 33%;
     bottom: 1.125rem;
     left: 18rem;
@@ -42,13 +52,17 @@
 }
 
 .button-div-main {
-    @apply flex relative bottom-0.5 justify-around;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
     width: 20rem;
-    left:  22rem;
+    left:  18rem;
 }
 
 .button-div {
-    @apply flex relative bottom-0.5 justify-around;
+    position: relative;
+    display: flex;
+    justify-content: space-around;
     width: 20rem;
     left: 5rem;
 }

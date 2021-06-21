@@ -31877,7 +31877,6 @@ video {
 
 .icons-for-article1 {
   position: relative;
-  bottom: 0.125rem;
   display: flex;
   justify-content: space-around;
   width: 47%;
@@ -31887,7 +31886,6 @@ video {
 
 .icons-for-article2 {
   position: relative;
-  bottom: 0.125rem;
   display: flex;
   justify-content: space-around;
   width: 20%;
@@ -31897,7 +31895,6 @@ video {
 
 .icons-for-article3 {
   position: relative;
-  bottom: 0.125rem;
   display: flex;
   justify-content: space-around;
   width: 33%;
@@ -31919,16 +31916,14 @@ video {
 
 .button-div-main {
   position: relative;
-  bottom: 0.125rem;
   display: flex;
   justify-content: space-around;
   width: 20rem;
-  left:  22rem;
+  left:  18rem;
 }
 
 .button-div {
   position: relative;
-  bottom: 0.125rem;
   display: flex;
   justify-content: space-around;
   width: 20rem;
